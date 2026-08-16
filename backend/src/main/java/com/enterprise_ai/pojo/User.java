@@ -10,6 +10,6 @@ public class User {
     private String username;
     private String password;
     private String email;
-    private String User_pci;
-    private LocalDateTime createtime;
+    private String userPci;
+    private LocalDateTime createTime;
 }
